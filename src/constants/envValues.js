@@ -1,0 +1,3 @@
+export let NEXT_PUBLIC_GRAPHQL_ENDPOINT = process.env.NEXT_PUBLIC_GRAPHQL_ENDPOINT
+
+NEXT_PUBLIC_GRAPHQL_ENDPOINT= "https://arise.tw/graphql"
